@@ -22,7 +22,6 @@ For more examples please check the tests here:
 
 
 ## Installation
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
 1. Add rop to your list of dependencies in `mix.exs`:
 ```elixir
@@ -30,7 +29,6 @@ def deps do
   [{:plumber_girl, "~> 0.9.0"}]
 end
 ```
-
 
 
 ## Usage

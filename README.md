@@ -24,7 +24,8 @@ For more examples please check the tests here:
 - https://gist.github.com/zabirauf/17ced02bdf9829b6956e (Railway Oriented Programming macros in Elixir)
 
 
-## Installation
+Installation
+------
 
 1. Add rop to your list of dependencies in `mix.exs`:
 ```elixir

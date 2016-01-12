@@ -1,7 +1,7 @@
 defmodule PlumberGirl.Mixfile do
   use Mix.Project
 
-  @version "0.9.1"
+  @version "0.9.5"
 
   def project do
     [app: :plumber_girl,

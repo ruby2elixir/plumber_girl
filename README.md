@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ruby2elixir/plumber_girl/master/logo/plumber_girl_pic_small.jpg" alt="alt text" height="250">
+
 # PlumberGirl takes care of your Elixir piping issues!
 
 

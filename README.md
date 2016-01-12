@@ -30,7 +30,7 @@ Installation
 1. Add rop to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
-  [{:plumber_girl, "~> 0.9.0"}]
+  [{:plumber_girl, "~> 0.9.5"}]
 end
 ```
 

@@ -250,5 +250,6 @@ Background information
 - https://github.com/knrz/towel.git
 
 
-### Altenatives
+### Alternatives
   - https://github.com/batate/elixir-pipes - Macros for more flexible composition with the Elixir Pipe operator
+  - https://github.com/vic/ok_jose - Pipe elixir functions that match {:ok,_}, {:error,_} tuples or custom patterns.

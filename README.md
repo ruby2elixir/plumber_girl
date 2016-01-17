@@ -236,7 +236,7 @@ Background information
 - http://fsharpforfunandprofit.com/posts/recipe-part2/
 - https://www.reddit.com/r/programming/comments/30coly/railway_oriented_programming_in_elixir/
 
-### Code (Railsway Programming)
+### Code (Railway Programming)
 - https://github.com/remiq/railway-oriented-programming-elixir/blob/master/lib/rop.ex
 - https://gist.github.com/zabirauf/17ced02bdf9829b6956e (Railway Oriented Programming macros in Elixir) -> Rop
 - https://github.com/CrowdHailer/OK/blob/master/lib/ok.ex
@@ -249,6 +249,8 @@ Background information
 - https://github.com/niahoo/monk.git
 - https://github.com/knrz/towel.git
 
+### Why Railway Oriented Programming might be simpler than Monads
+- https://speakerdeck.com/swlaschin/railway-oriented-programming-a-functional-approach-to-error-handling
 
 ### Alternatives
   - https://github.com/batate/elixir-pipes - Macros for more flexible composition with the Elixir Pipe operator

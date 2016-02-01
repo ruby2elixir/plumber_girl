@@ -1,0 +1,5 @@
+build:
+  image: bitwalker/alpine-elixir-phoenix:2.0
+  commands:
+    - mix deps.get
+    - mix test

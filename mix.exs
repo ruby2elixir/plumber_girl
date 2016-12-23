@@ -43,6 +43,7 @@ defmodule PlumberGirl.Mixfile do
     [
      maintainers: ["Roman Heinrich", "Zohaib Rauf", "Remigiusz Jackowski"],
      licenses: ["MIT License"],
+     files: ~w(lib mix.exs README.md LICENSE),
      description: "PlumberGirl takes care of your Elixir piping issues!",
      links: %{
        github: "https://github.com/ruby2elixir/plumber_girl",

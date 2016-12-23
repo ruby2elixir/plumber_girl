@@ -1,7 +1,7 @@
 defmodule PlumberGirl.Mixfile do
   use Mix.Project
 
-  @version "0.9.6"
+  @version "0.9.7"
 
   def project do
     [app: :plumber_girl,
@@ -43,6 +43,7 @@ defmodule PlumberGirl.Mixfile do
     [
      maintainers: ["Roman Heinrich", "Zohaib Rauf", "Remigiusz Jackowski"],
      licenses: ["MIT License"],
+     files: ~w(lib mix.exs README.md LICENSE),
      description: "PlumberGirl takes care of your Elixir piping issues!",
      links: %{
        github: "https://github.com/ruby2elixir/plumber_girl",

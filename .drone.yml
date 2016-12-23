@@ -3,3 +3,4 @@ build:
   commands:
     - mix deps.get
     - mix test
+
